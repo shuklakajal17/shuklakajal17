@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @shuklakajal17
-- 👀 I’m interested in developer field.
+- 🚀 Passionate coder and software enthusiast with a love for building creative solutions.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
+- 🌱 Always learning and experimenting with new tools and frameworks.
 - 📫 How to reach me ... by github.
-- ⚡ Fun fact: ... taking new challenges. 
+- 🎯 My goal is to contribute to open-source, collaborate on interesting projects, and improve my coding skills every day.
+- ⚡ Fun fact: ... taking new challenges.
+
 
 <!---
 shuklakajal17/shuklakajal17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
