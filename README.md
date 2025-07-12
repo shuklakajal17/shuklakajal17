@@ -48,7 +48,7 @@
 ### 🎓 Certifications & Learning
 
 - ✅ *Introduction to Web Development* – Coursera / YouTube / Udemy  
-- ✅ *Git & GitHub Basics* – [Mention platform]  
+- ✅ *Git & GitHub Basics*   
 
 ---
 
